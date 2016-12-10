@@ -28,7 +28,7 @@
 			<div class="row">
 				<div class="col-md-3">
 					<div class="logo">
-						<a href="http://localhost/Avyay_Technologies/Talent_Spy/">
+						<a href="http://localhost/Avyay_Technologies/Wema_Bank/">
 							<img src="img/logo.png">
 						</a>
 					</div>

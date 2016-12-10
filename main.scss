@@ -4,8 +4,8 @@
 
 /*--- Fonts Used ---*/
 
-/*'FuturaBT-Medium'*/
-/*'FuturaBT-Book'*/
+/*'muliBT-Medium'*/
+/*'muliBT-Book'*/
 /*'ArialMT-Regular'*/
 /*'Arial'*/
 
@@ -24,11 +24,12 @@ $light_purple: #dc26bf;
 $grey: #505050;
 $white: #fff;
 $border_grey: #8d8d8d;
-$arial : 'Roboto', sans-serif;
-$futura: 'Muli', sans-serif;
+$roboto : 'Roboto', sans-serif;
+$muli: 'Muli', sans-serif;
 
 body {
-	font-family: $arial;
+	font-family: $roboto;
+	color: $grey;
 }
 a {
 	&:hover, &:link, &:visited, &:active {
@@ -49,9 +50,9 @@ header {
 		border-bottom: 1px solid #ddd;
 		padding: 12px 0;
 		.logo {
-			padding-top: 10px;
+			padding-top: 15px;
 			img {
-				width: 100%;
+				width: 250px;
 				height: auto;
 			}
 		}
@@ -134,7 +135,7 @@ header {
 		    color: $white;
 		    text-transform: uppercase;
 		    font-weight: 400;
-			font-family: $futura;
+			font-family: $muli;
 		    
 		    &:first-child {
 		    	border: 1px solid #ccc;
@@ -153,7 +154,7 @@ header {
 		padding-left: 0;
 		margin: 0;
 		li {
-			font-family: $futura;
+			font-family: $muli;
 			font-weight: 600;
 			list-style-type: none;
 			display: inline-block;
@@ -188,11 +189,112 @@ header {
 
 .home-banner {
 	z-index: -1;
-	margin-bottom: 100px;
 	img {
 		width: 100%;
 		height: auto;
 		border-bottom: 1px solid #ccc;
-		box-shadow: 0 5px 15px 0px #ccc; 
+		box-shadow: 0 4px 10px 0px #ccc; 
 	}
+}
+.lightgrey-back {
+	box-shadow: 0 0 10px 2px #ccc;
+	background: #f3f4f6;
+	padding: 20px 0;
+	margin-bottom: 50px;
+	.homefeatures-sec {
+		border-right: 1px solid #d7d7d9;
+		padding: 0 20px;
+		min-height: 100px;
+		h2 {
+			font-family: $muli;
+			margin: 0;
+			font-size: 18px;
+		}
+	}
+}
+a.shiny-link {
+	text-transform: uppercase;
+	color: $light_purple;
+	font-family: $muli;
+	font-weight: 700;
+	&:hover {	
+		border-bottom: 2px solid $light_purple;
+	}
+}
+.sec-title {
+	background: url('img/sec-title-line.png');
+	background-repeat: repeat-x;
+	background-position: center; 
+	padding: 5px 0;
+	text-align: center;
+	/*padding: 50px 0;*/
+	h2 {
+		display: inline-block;
+		background: $white;
+		padding: 5px 40px;
+		text-transform: uppercase;
+		font-family: $muli;
+		margin: 0;
+	}
+	&.grey {
+		h2 {
+			background: #c8c8c8; 
+		}
+	}
+}
+
+.border-rght {
+	border-right: 1px solid #d7d7d9;
+}
+.home-banksmart {
+	padding: 50px 0;
+	.home-banksmart-sec {
+		text-align: center;
+		padding: 0 20px;
+		.banksmart-img {
+			background: url('img/homepage-banksmart.png') no-repeat scroll -798px -105px;
+	    display: block;
+	    height: 115px;
+	    width: 100%;
+	    margin-bottom: 10px;
+		}
+		span {
+			font-size: 16px;
+			color: $grey;
+			display: block;
+			font-family: $muli;
+			font-weight: 700;
+		}
+		p {
+			font-size: 16px;
+			margin-bottom: 20px;
+			min-height: 70px;
+		}
+		a {
+			color: #fff;
+	    width: 200px;
+	    display: inline-block;
+	    background-color: $light_purple;
+	    height: auto;
+	    padding: 10px 0;
+	    text-align: center;
+	    z-index: 1;
+	    border: 2px solid transparent;
+	    transition: all 0.3s ease-in-out;
+	    -o-transition: all 0.3s ease-in-out;
+	    -webkit-transition: all 0.3s ease-in-out;
+	    text-transform: uppercase;
+	    font-family: $muli;
+	    font-weight: 700;
+			&:hover {
+				background: none;
+				border: 2px solid $light_purple;
+				color: $light_purple;		
+			}
+		}
+	}
+}
+.darkgrey-back {
+	padding: 50px 0;
+	background: #c8c8c8;
 }
