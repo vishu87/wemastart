@@ -8,10 +8,15 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
-	<link rel="stylesheet" type="text/css" href="style.css">
-	<link rel="stylesheet" type="text/css" href="main.css">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/evil-icons/1.9.0/evil-icons.min.css">
+
+	<link href="https://fonts.googleapis.com/css?family=Muli:400,600,700|Roboto:400,500" rel="stylesheet">
+
 	
+	<link rel="stylesheet" type="text/css" href="main.css">
+
 	<script type="text/javascript" src="js/jquery.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/evil-icons/1.9.0/evil-icons.min.js"></script>
 	<script type="text/javascript" src="js/custom.js"></script>
 	
 	<link rel="icon" type="image/png" href="favicon.ico">
@@ -47,12 +52,12 @@
 					</div>
 					<div class="header-search">
 						<input name="search" type="text" placeholder="What are you looking for?">
-						<img src="img/header-search.png">
+						<div data-icon="ei-search"></div>
 					</div>
 				</div>
 				<div class="col-md-4">
 					<div class="top-menu header-side-menu">
-						<ul>
+						<ul style="text-align: right;">
 							<li>
 								<img src="img/demo-icon.png">
 								<a href="javascript:;">Get Support</a>
