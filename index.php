@@ -77,20 +77,104 @@
 			<h2>What's New ?</h2>
 		</div>
 		<div class="row">
-			<div class="col-md-3">
+			<div class="col-md-3 padd-0">
 				<div class="home-new-sec">
 					<img src="img/home-new-img.jpg">
-					<h3>Don't Let Finance Bother</h3>
-					<p>Personal Loans from Axis Bank</p>
-					<a class="shiny-link" href="javascript:;">Know More</a>
+					<div class="home-new-text">
+						<h3>Don't Let Finance Bother Your Love for Travel</h3>
+						<p>Personal Loans from Axis Bank with no forclosure charges.</p>
+						<div class="row">
+							<div class="col-md-6">
+								<a class="shiny-link" href="javascript:;">Know More</a>
+							</div>
+							<div class="col-md-6">
+								<div class="home-new-social">
+									<a href="javascript:;">
+										<img src="img/demo-icon.png">
+									</a>
+									<a href="javascript:;">
+										<img src="img/demo-icon.png">
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-3 padd-0">
+				<div class="home-new-sec">
+					<img src="img/home-new-img.jpg">
+					<div class="home-new-text">
+						<h3>Don't Let Finance Bother Your Love for Travel</h3>
+						<p>Personal Loans from Axis Bank with no forclosure charges.</p>
+						<div class="row">
+							<div class="col-md-6">
+								<a class="shiny-link" href="javascript:;">Know More</a>
+							</div>
+							<div class="col-md-6">
+								<div class="home-new-social">
+									<a href="javascript:;">
+										<img src="img/demo-icon.png">
+									</a>
+									<a href="javascript:;">
+										<img src="img/demo-icon.png">
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-3 padd-0">
+				<div class="home-new-sec">
+					<img src="img/home-new-img.jpg">
+					<div class="home-new-text">
+						<h3>Don't Let Finance Bother Your Love for Travel</h3>
+						<p>Personal Loans from Axis Bank with no forclosure charges.</p>
+						<div class="row">
+							<div class="col-md-6">
+								<a class="shiny-link" href="javascript:;">Know More</a>
+							</div>
+							<div class="col-md-6">
+								<div class="home-new-social">
+									<a href="javascript:;">
+										<img src="img/demo-icon.png">
+									</a>
+									<a href="javascript:;">
+										<img src="img/demo-icon.png">
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-3 padd-0">
+				<div class="home-new-sec ">
+					<img src="img/home-new-img.jpg">
+					<div class="home-new-text">
+						<h3>Don't Let Finance Bother Your Love for Travel</h3>
+						<p>Personal Loans from Axis Bank with no forclosure charges.</p>
+						<div class="row">
+							<div class="col-md-6">
+								<a class="shiny-link" href="javascript:;">Know More</a>
+							</div>
+							<div class="col-md-6">
+								<div class="home-new-social">
+									<a href="javascript:;">
+										<img src="img/demo-icon.png">
+									</a>
+									<a href="javascript:;">
+										<img src="img/demo-icon.png">
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
 				</div>
 			</div>	
 		</div>
 	</div>
 </div>
-
-
-
-<div style="padding:100px;"></div>
 
 <?php include('footer.php'); ?>

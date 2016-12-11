@@ -1,122 +1,161 @@
-<!-- <footer>
-	<div class="container-fluid upper-footer">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-9">
-					<div class="row">
-						<div class="col-md-4">
-							<div class="footer-sec1">
-								<a href="http://localhost/Avyay_Technologies/Talent_Spy/">
-									<img src="img/ftspy_logo1.png">
-								</a>
-								<div class="sep1"></div>
-								<p>
-									Analyze, evaluate, rank and administer players on a single platform.
-								</p>
-								<div class="sep2"></div>
-								<ul class="footer-social">	
-									<li><a href="javascript:;"><img src="img/facebook-icon.png"></a></li>
-									<li><a href="javascript:;"><img src="img/twitter-icon.png"></a></li>
-									<li><a href="javascript:;"><img src="img/youtube-icon.png"></a></li>
-									<li><a href="javascript:;"><img src="img/linkedin-icon.png"></a></li>
-									<li><a href="javascript:;"><img src="img/insta-icon.png"></a></li>
-								</ul>
-							</div>
-						</div>
-						<div class="col-md-8">
-							<div class="row">
-								<div class="col-md-3">
-									<div class="footermenu-sec">
-										<h3>Platform</h3>
-										<div class="footer-menu">
-											<ul>
-												<li><a href="javascript:;">Features</a></li>
-												<li><a href="javascript:;">Pricing</a></li>
-												<li><a href="javascript:;">Clients</a></li>
-												<li><a href="javascript:;">Testimonials</a></li>
-												<li><a href="javascript:;">Login</a></li>
-											</ul>
-										</div>		
-									</div>
-								</div>
-								<div class="col-md-3">
-									<div class="footermenu-sec">
-										<h3>Company</h3>
-										<div class="footer-menu">
-											<ul>
-												<li><a href="javascript:;">Features</a></li>
-												<li><a href="javascript:;">Pricing</a></li>
-												<li><a href="javascript:;">Clients</a></li>
-												<li><a href="javascript:;">Testimonials</a></li>
-												<li><a href="javascript:;">Login</a></li>
-											</ul>
-										</div>		
-									</div>
-								</div>
-								<div class="col-md-3">
-									<div class="footermenu-sec">
-										<h3>Press</h3>
-										<div class="footer-menu">
-											<ul>
-												<li><a href="javascript:;">Features</a></li>
-												<li><a href="javascript:;">Pricing</a></li>
-												<li><a href="javascript:;">Clients</a></li>
-												<li><a href="javascript:;">Testimonials</a></li>
-												<li><a href="javascript:;">Login</a></li>
-											</ul>
-										</div>		
-									</div>
-								</div>
-								<div class="col-md-3">
-									<div class="footermenu-sec">
-										<h3>Info</h3>
-										<div class="footer-menu">
-											<ul>
-												<li><a href="javascript:;">Features</a></li>
-												<li><a href="javascript:;">Pricing</a></li>
-												<li><a href="javascript:;">Clients</a></li>
-												<li><a href="javascript:;">Testimonials</a></li>
-												<li><a href="javascript:;">Login</a></li>
-											</ul>
-										</div>		
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
+</main>
+<footer>
+	<div class="container">
+		<div class="row">
+			<div class="col-md-3">
+				<div class="footer-sec">
+					<h3>Contact Us</h3>
+					<ul class="footer-menu">
+						<li>
+							Call: <a href="javascript:;">1800-419-5959</a><br> to get your Account Balance
+						</li>
+						<li>
+							Call: <a href="javascript:;">1800-419-6969</a><br> to get your Mini Statement
+						</li>
+						<li>
+							<a href="javascript:;">Find your Nearest</a>
+						</li>
+						<li>
+							<a href="javascript:;">Complaints and Grievance Redressal</a>
+						</li>
+						<li>
+							<a href="javascript:;">Banking Ombudsman Scheme, 2006</a>
+						</li>
+					</ul>
 				</div>
-				<div class="col-md-3">
-					<div class="footer-sec2">
-						<h3>Questions? Talk With Us</h3>
-						<a href="javascript:;">support@talentspy.com</a>
-					</div>
-				</div>	
 			</div>
-		</div>
-	</div>
-	<div class="container-fluid lower-footer">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-6">
-					<div class="lower-footersec1">
-						<span>Secured By</span>
-						<svg xmlns="http://www.w3.org/2000/svg" width="172" height="42" viewBox="0 0 172 42" class="svg replaced-svg"><path fill="#fff" d="M26.58 26h-1v-3h4v3h-1v2h-2v-2zm11-7v14h-20V19h3V9h14v10h3zm-15 0h10v-8h-10v8zm13 2h-16v10h16V21zM49.8 13.793c.36.12.647.28.858.47l.643-.91c-.328-.27-.715-.483-1.165-.632-.45-.15-.902-.224-1.358-.224-.708 0-1.302.178-1.782.535-.48.358-.72.868-.72 1.528s.21 1.15.633 1.47c.21.17.453.31.725.415.272.105.67.22 1.194.346.524.126.894.265 1.108.42.214.15.32.366.32.642s-.113.496-.34.664c-.23.166-.537.25-.925.25-.776 0-1.525-.312-2.247-.94l-.755.91c.864.77 1.855 1.153 2.97 1.153.764 0 1.38-.194 1.85-.583s.705-.893.705-1.516-.186-1.095-.557-1.413c-.37-.32-.923-.568-1.654-.746-.732-.177-1.21-.34-1.435-.495-.225-.152-.337-.373-.337-.664 0-.288.112-.503.337-.647.225-.143.512-.213.863-.213s.707.06 1.068.183zm9.7-.022v-1.1h-5.534v1.102h2.165v6.035h1.204v-6.035H59.5zm6.965 4.414l.715 1.623h1.287L65.32 12.67H64.03l-3.145 7.137h1.287l.715-1.623h3.573zM63.38 17.07l1.296-2.94 1.297 2.94H63.38zm12.702-3.85c-.47-.366-1.25-.55-2.338-.55H71.09v7.137h1.204V17.41h1.583l1.705 2.397h1.532l-1.87-2.594c1.03-.307 1.543-1.047 1.543-2.227 0-.808-.235-1.398-.705-1.765zm-2.287 3.094h-1.5V13.76h1.53c.648 0 1.097.09 1.35.26.25.175.377.495.377.962s-.123.805-.368 1.016-.708.316-1.39.316zm11.11-2.52l.01-1.124h-4.758v7.137h1.205v-2.94h3.166v-1.112h-3.166v-1.96h3.543zm3.054 6.013h1.203V12.67H87.96v7.137zm4.818-7.137v7.137h5.136v-1.133h-3.932v-1.91h3.422v-1.072h-3.422v-1.89h3.81V12.67h-5.014zm12.775 7.137v-1.143h-3.258V12.67h-1.205v7.137h4.463zm5.402-7.137h-2.45v7.137h2.368c1.375 0 2.396-.322 3.063-.97.667-.647 1-1.524 1-2.634s-.343-1.977-1.03-2.6c-.688-.623-1.672-.933-2.95-.933zm2.078 5.387c-.46.412-1.123.617-1.986.617h-1.338v-4.89h1.204c1.87 0 2.808.815 2.808 2.448 0 .805-.23 1.413-.69 1.825zm14.383-4.286v-1.1h-5.535v1.102h2.166v6.035h1.205v-6.035h2.166zm2.94-1.1v7.137h5.136v-1.133h-3.932v-1.91h3.422v-1.072h-3.422v-1.89h3.81V12.67h-5.014zm9.84 5.314c-.487-.486-.73-1.092-.73-1.818 0-.725.245-1.32.735-1.787.49-.466 1.097-.7 1.817-.7.41 0 .765.064 1.068.195.303.13.624.357.965.684l.766-.84c-.742-.815-1.666-1.224-2.773-1.224-1.105 0-2.02.354-2.746 1.062-.725.707-1.088 1.592-1.088 2.654s.354 1.94 1.066 2.635c.712.693 1.606 1.04 2.686 1.04s1.997-.417 2.752-1.255l-.776-.797c-.326.307-.64.53-.94.67-.298.14-.655.21-1.07.21-.67 0-1.246-.244-1.733-.73zm8.827 1.823v-2.92h3.543v2.92h1.205V12.67h-1.204v3.094h-3.543V12.67h-1.205v7.137h1.205zm-97.866 3.96H50.1l-1.72 4.177-1.72-4.176h-1.055l2.248 5.592h1.056l2.247-5.592zm2.08 0v5.593h4.023v-.89h-3.08v-1.493h2.68v-.842h-2.68v-1.48h2.984v-.888h-3.928zm10.424.432c-.367-.288-.978-.433-1.83-.433h-2.08v5.592h.943v-1.88h1.24l1.336 1.88h1.2l-1.465-2.032c.805-.24 1.208-.822 1.208-1.744 0-.635-.184-1.096-.552-1.385zm-1.79 2.423h-1.177v-2h1.2c.507 0 .86.068 1.056.205.196.135.295.387.295.752s-.096.63-.288.795c-.192.166-.555.248-1.088.248zm4.983 2.736h.944v-5.593h-.944v5.592zm7.496-4.712l.007-.88H70.63v5.59h.943v-2.304h2.48v-.87h-2.48v-1.536h2.776zm2.39 4.71h.944v-5.59h-.944v5.59zm3.776-5.59v5.592h4.024v-.89h-3.08v-1.493h2.68v-.842h-2.68v-1.48h2.984v-.888h-3.928zm8.432 0h-1.92v5.592h1.856c1.077 0 1.877-.254 2.4-.76.52-.506.783-1.195.783-2.064s-.27-1.547-.81-2.035c-.535-.488-1.306-.732-2.31-.732zm1.628 4.22c-.36.322-.88.482-1.556.482h-1.048v-3.832h.943c1.467 0 2.2.64 2.2 1.922 0 .63-.178 1.104-.54 1.428zm10.725.787l.736.73.6-.562c-.33-.31-.603-.572-.815-.79.177-.278.334-.603.474-.97l-.656-.465c-.092.326-.22.61-.385.857-.267-.277-.613-.678-1.04-1.2.854-.47 1.28-.968 1.28-1.497 0-.395-.15-.7-.447-.92-.3-.22-.662-.328-1.09-.328s-.797.115-1.11.346c-.315.23-.473.557-.473.982 0 .246.044.45.132.61s.242.364.46.614c-.874.47-1.31 1.006-1.31 1.607 0 .507.183.905.55 1.196s.814.436 1.337.436c.702.002 1.29-.215 1.76-.647zm-2.76-.943c0-.39.302-.746.904-1.072.314.385.74.86 1.28 1.424-.38.31-.736.465-1.072.465s-.605-.077-.81-.23c-.2-.152-.302-.348-.302-.588zm1.892-3.332c.143.104.213.262.213.477 0 .256-.302.533-.904.832-.175-.216-.3-.382-.37-.5-.072-.122-.11-.257-.11-.405 0-.15.072-.28.214-.393.14-.11.3-.168.48-.168s.337.052.478.156zm10.436.148c.282.096.507.22.672.367l.504-.713c-.256-.213-.56-.377-.912-.494-.353-.12-.706-.178-1.063-.178-.556 0-1.022.14-1.397.42-.376.28-.564.68-.564 1.197s.165.9.495 1.152c.166.132.355.24.568.32.213.085.525.175.936.274.41.098.7.207.868.328.168.12.252.287.252.504 0 .215-.09.39-.27.52s-.42.195-.723.195c-.608 0-1.195-.243-1.76-.733l-.593.71c.677.605 1.454.905 2.328.905.597 0 1.08-.152 1.448-.457.367-.303.552-.7.552-1.188s-.146-.857-.437-1.107c-.29-.25-.723-.445-1.295-.584-.574-.14-.95-.268-1.125-.39-.176-.118-.264-.292-.264-.52s.09-.395.265-.507.402-.17.676-.17c.277.004.556.05.838.148zm3.792-.88v5.592h4.023v-.89h-3.08v-1.493h2.68v-.842h-2.68v-1.48h2.984v-.888h-3.927zm7.707 4.164c-.38-.38-.572-.855-.572-1.424s.192-1.035.576-1.4c.386-.365.86-.547 1.425-.547.32 0 .6.052.836.15.24.103.49.282.758.538l.6-.656c-.58-.64-1.306-.96-2.172-.96s-1.584.276-2.15.83c-.57.556-.854 1.25-.854 2.08s.278 1.522.836 2.065c.558.545 1.26.816 2.104.816.845 0 1.563-.328 2.156-.984l-.61-.624c-.255.238-.5.414-.734.523s-.515.163-.84.163c-.523 0-.976-.19-1.357-.57zm6.846-1.07v-3.095h-.945v3.137c0 .805.22 1.424.664 1.86s1.012.65 1.705.65 1.26-.216 1.703-.65.664-1.056.664-1.86v-3.137h-.943v3.096c0 .512-.128.918-.384 1.217s-.604.447-1.04.447c-.437 0-.784-.148-1.04-.447s-.383-.705-.383-1.217zm10.463-2.663c-.367-.288-.98-.433-1.832-.433h-2.08v5.592h.943v-1.88h1.24l1.336 1.88h1.2l-1.464-2.032c.804-.24 1.208-.822 1.208-1.744 0-.635-.185-1.096-.552-1.385zm-1.79 2.423h-1.18v-2h1.202c.506 0 .857.068 1.055.205.197.135.297.387.297.752s-.096.63-.287.795c-.194.166-.555.248-1.088.248zm4.98-2.855v5.592h4.024v-.89h-3.08v-1.493h2.682v-.842h-2.682v-1.48h2.984v-.888h-3.927zm8.433 0h-1.92v5.592h1.854c1.078 0 1.877-.254 2.4-.76s.785-1.195.785-2.064-.27-1.547-.81-2.035-1.31-.732-2.31-.732zm1.628 4.22c-.36.322-.88.482-1.557.482h-1.048v-3.832h.945c1.467 0 2.2.64 2.2 1.922 0 .63-.18 1.104-.54 1.428z"></path></svg>
-
-						<span>Data Licensed From</span>
-						<svg xmlns="http://www.w3.org/2000/svg" width="108" height="48" viewBox="0 0 108 48" class="svg replaced-svg"><path fill="#fff" d="M46.932 7.684c-8.703 0-14.786 6.77-14.786 15.053v24.257h7.42V34.49c2.176 2.238 5.022 3.358 8.37 3.358 7.587 0 13.726-6.77 13.726-15.11 0-8.283-6.08-15.054-14.73-15.054zm0 23.338c-4.072 0-7.365-3.695-7.365-8.285 0-4.477 3.293-8.115 7.365-8.115 4.073 0 7.367 3.47 7.367 8.115-.002 4.7-3.295 8.285-7.368 8.285zm45.14-23.338c-8.7 0-14.784 6.827-14.784 15.167 0 8.283 6.196 15 13.78 15 3.46 0 6.584-1.232 8.76-3.637v3.022h6.975V22.85c0-8.34-6.08-15.166-14.73-15.166zm0 23.338c-4.07 0-7.362-3.526-7.362-8.116 0-4.76 3.292-8.285 7.363-8.285 4.074 0 7.366 3.694 7.366 8.286 0 4.477-3.293 8.116-7.367 8.116zM81.22 36.54c-3.37.953-6.666.768-6.666.768-7.193-.032-10.987-4.938-10.987-12.226V1.006h7.383V8.36h4.44v6.565h-4.44V25.14c0 4.042 1.847 5.556 5.538 5.334 1.96 3.96 4.732 6.066 4.732 6.066zM15.826 7.494c-8.078 0-14.63 6.618-14.63 15.33 0 8.71 6.552 15.214 14.63 15.214s14.686-6.504 14.686-15.215c0-8.71-6.608-15.33-14.686-15.33zm0 23.7c-3.954 0-7.174-3.394-7.174-8.315 0-5.035 3.22-8.542 7.174-8.542S23 17.845 23 22.878c0 4.922-3.22 8.316-7.174 8.316z"></path></svg>
-					</div>
+			<div class="col-md-3">
+				<div class="footer-sec">
+					<h3>Shareholder's Corner</h3>
+					<ul class="footer-menu">
+						<li>
+							Call: <a href="javascript:;">1800-419-5959</a><br> to get your Account Balance
+						</li>
+						<li>
+							Call: <a href="javascript:;">1800-419-6969</a><br> to get your Mini Statement
+						</li>
+						<li>
+							<a href="javascript:;">Find your Nearest</a>
+						</li>
+						<li>
+							<a href="javascript:;">Complaints and Grievance Redressal</a>
+						</li>
+						<li>
+							<a href="javascript:;">Banking Ombudsman Scheme, 2006</a>
+						</li>
+					</ul>
 				</div>
-				<div class="col-md-6">
-					<div class="footer-logos">
-						<img src="img/logos_footer.png">
-						<img src="img/ue.png">
-					</div>
+			</div>
+			<div class="col-md-2">
+				<div class="footer-sec">
+					<h3>Media Center</h3>
+					<ul class="footer-menu">
+						<li>
+							Call: 1800-419-5959 to get your Account Balance
+						</li>
+						<li>
+							Call: 1800-419-6969 to get your Mini Statement
+						</li>
+						<li>
+							<a href="javascript:;">Find your Nearest</a>
+						</li>
+						<li>
+							<a href="javascript:;">Complaints and Grievance Redressal</a>
+						</li>
+						<!-- <li>
+							<a href="javascript:;">Banking Ombudsman Scheme, 2006</a>
+						</li> -->
+					</ul>
+				</div>
+			</div>
+			<div class="col-md-2">
+				<div class="footer-sec">
+					<h3>Other Links</h3>
+					<ul class="footer-menu">
+						<li>
+							Call: <a href="javascript:;">1800-419-5959</a><br> to get your Account Balance
+						</li>
+						<li>
+							Call: <a href="javascript:;">1800-419-6969</a><br> to get your Mini Statement
+						</li>
+						<li>
+							<a href="javascript:;">Find your Nearest</a>
+						</li>
+						<li>
+							<a href="javascript:;">Complaints and Grievance Redressal</a>
+						</li>
+						<li>
+							<a href="javascript:;">Banking Ombudsman Scheme, 2006</a>
+						</li>
+					</ul>
+				</div>
+			</div>	
+			<div class="col-md-2">
+				<div class="footer-sec">
+					<h4>Wema Bank Country Website</h4>
+					<select name="footer-country">
+						<option value="">Countries</option>
+						<option value="1">India <img src="img/demo-icon.png"></option>
+						<option value="2">Nigeria <img src="img/demo-icon.png"></option>
+						<option value="3">China <img src="img/demo-icon.png"></option>
+						<option value="4">Hong Kong <img src="img/demo-icon.png"></option>
+					</select>
+					<h4>Connect With Us On</h4>
+					<ul class="footer-social">
+						<li>
+							<a href="javascript:;">
+								<img src="img/facebook-icon.png">  
+							</a>
+						</li>
+						<li>
+							<a href="javascript:;">
+								<img src="img/twitter-icon.png">  
+							</a>
+						</li>
+						<li>
+							<a href="javascript:;">
+								<img src="img/linkedin-icon.png">  
+							</a>
+						</li>
+						<li>
+							<a href="javascript:;">
+								<img src="img/youtube-icon.png">  
+							</a>
+						</li>
+						<li>
+							<a href="javascript:;">
+								<img src="img/instagram-icon.png">  
+							</a>
+						</li>
+					</ul>
+				</div>
+			</div>	
+		</div>
+		<div class="lower-footer">
+			<div class="row">
+				<div class="col-md-3">
+					<p>Copyright &copy; 2016 Wema Bank</p>
+				</div>
+				<div class="col-md-9">
+					<ul>
+						<li>
+							<a href="javascript:;">Disclaimer</a>
+						</li>
+						<li>
+							<a href="javascript:;">Privacy Policy</a>
+						</li>
+						<li>
+							<a href="javascript:;">Code of Commitment</a>
+						</li>
+						<li>
+							<a href="javascript:;">Sitemap</a>
+						</li>
+					</ul>
 				</div>
 			</div>
 		</div>
 	</div>
 </footer>
 
-</main>
 </body>
-</html> -->
+</html>
