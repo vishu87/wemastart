@@ -18,33 +18,37 @@ jQuery(document).ready(function(){
 
 //     /*------------- Top Fixed Menu  ------------------*/
 
-    // jQuery(window).scroll(function(){
-    //   if( jQuery(window).scrollTop() > 100) {
-    //     jQuery('header').css({
-    //         "background":"rgba(255,255,255,0.7)",
-    //         "transition":"0.3s ease-in"
-    //     });
-    //   } else 
-    //     jQuery('header').css({
-    //         "background":"rgba(255,255,255,1)"
-    //     });
-    // });
+    jQuery(window).scroll(function(){
+      if( jQuery(window).scrollTop() > 150) {
+        jQuery('.fixed-header').show();
+      } else 
+        jQuery('.fixed-header').hide();
+    });
 
 //     /*-------------- End -------------*/
 
-    jQuery(".home-slider").owlCarousel({
+    jQuery(".home-banner").owlCarousel({
         items : 1,
         loop:true,
         autoPlay:true,
+        // navigation:true,
+        // navigationText: ["<img src='img/nav_left.png'>","<img src='img/nav_right.png'>"]
+    });
+
+    jQuery(".home-features").owlCarousel ({
+        items : 3,
+        loop : true,
         navigation:true,
         navigationText: ["<img src='img/nav_left.png'>","<img src='img/nav_right.png'>"]
     });
 
-    jQuery(".report-slider").owlCarousel ({
-        items : 1,
+    jQuery(".home-banksmart").owlCarousel ({
+        items : 4,
         loop : true,
-        autoPlay : true
+        navigation:true,
+        navigationText: ["<img src='img/nav_left.png'>","<img src='img/nav_right.png'>"]
     });
+
     jQuery("#pricing-select").click(function(){
         if(jQuery(".select-arrow").hasClass("down")){
             jQuery(".select-arrow").removeClass("down");

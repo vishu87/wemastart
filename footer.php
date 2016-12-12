@@ -7,10 +7,10 @@
 					<h3>Contact Us</h3>
 					<ul class="footer-menu">
 						<li>
-							Call: <a href="javascript:;">1800-419-5959</a><br> to get your Account Balance
+							Call: 1800-419-5959<br> to get your Account Balance
 						</li>
 						<li>
-							Call: <a href="javascript:;">1800-419-6969</a><br> to get your Mini Statement
+							Call: 1800-419-6969<br> to get your Mini Statement
 						</li>
 						<li>
 							<a href="javascript:;">Find your Nearest</a>
@@ -29,10 +29,10 @@
 					<h3>Shareholder's Corner</h3>
 					<ul class="footer-menu">
 						<li>
-							Call: <a href="javascript:;">1800-419-5959</a><br> to get your Account Balance
+							Call: 1800-419-5959<br> to get your Account Balance
 						</li>
 						<li>
-							Call: <a href="javascript:;">1800-419-6969</a><br> to get your Mini Statement
+							Call: 1800-419-6969<br> to get your Mini Statement
 						</li>
 						<li>
 							<a href="javascript:;">Find your Nearest</a>
@@ -46,7 +46,7 @@
 					</ul>
 				</div>
 			</div>
-			<div class="col-md-2">
+			<div class="col-md-3">
 				<div class="footer-sec">
 					<h3>Media Center</h3>
 					<ul class="footer-menu">
@@ -68,15 +68,15 @@
 					</ul>
 				</div>
 			</div>
-			<div class="col-md-2">
+			<!-- <div class="col-md-2">
 				<div class="footer-sec">
 					<h3>Other Links</h3>
 					<ul class="footer-menu">
 						<li>
-							Call: <a href="javascript:;">1800-419-5959</a><br> to get your Account Balance
+							Call: 1800-419-5959<br> to get your Account Balance
 						</li>
 						<li>
-							Call: <a href="javascript:;">1800-419-6969</a><br> to get your Mini Statement
+							Call: 1800-419-6969<br> to get your Mini Statement
 						</li>
 						<li>
 							<a href="javascript:;">Find your Nearest</a>
@@ -89,8 +89,8 @@
 						</li>
 					</ul>
 				</div>
-			</div>	
-			<div class="col-md-2">
+			</div>	 -->
+			<div class="col-md-3">
 				<div class="footer-sec">
 					<h4>Wema Bank Country Website</h4>
 					<select name="footer-country">
