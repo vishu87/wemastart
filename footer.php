@@ -7,10 +7,10 @@
 					<h3>Contact Us</h3>
 					<ul class="footer-menu">
 						<li>
-							Call: 1800-419-5959<br> to get your Account Balance
+							Call: 0814 64 4081<br> to get your Account Balance
 						</li>
 						<li>
-							Call: 1800-419-6969<br> to get your Mini Statement
+							Call: 0814 64 4081<br> to get your Mini Statement
 						</li>
 						<li>
 							<a href="javascript:;">Find your Nearest</a>
@@ -29,10 +29,10 @@
 					<h3>Shareholder's Corner</h3>
 					<ul class="footer-menu">
 						<li>
-							Call: 1800-419-5959<br> to get your Account Balance
+							Call: 0814 64 4081<br> to get your Account Balance
 						</li>
 						<li>
-							Call: 1800-419-6969<br> to get your Mini Statement
+							Call: 0814 64 4081<br> to get your Mini Statement
 						</li>
 						<li>
 							<a href="javascript:;">Find your Nearest</a>
@@ -51,10 +51,10 @@
 					<h3>Media Center</h3>
 					<ul class="footer-menu">
 						<li>
-							Call: 1800-419-5959 to get your Account Balance
+							Call: 0814 64 4081 to get your Account Balance
 						</li>
 						<li>
-							Call: 1800-419-6969 to get your Mini Statement
+							Call: 0814 64 4081 to get your Mini Statement
 						</li>
 						<li>
 							<a href="javascript:;">Find your Nearest</a>
@@ -73,10 +73,10 @@
 					<h3>Other Links</h3>
 					<ul class="footer-menu">
 						<li>
-							Call: 1800-419-5959<br> to get your Account Balance
+							Call: 0814 64 4081<br> to get your Account Balance
 						</li>
 						<li>
-							Call: 1800-419-6969<br> to get your Mini Statement
+							Call: 0814 64 4081<br> to get your Mini Statement
 						</li>
 						<li>
 							<a href="javascript:;">Find your Nearest</a>

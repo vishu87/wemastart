@@ -3,8 +3,6 @@
 <div class="home-banner">
 	<img src="img/home_banner_new.jpg">
 	<img src="img/home_banner_new.jpg">
-	<img src="img/home_banner_new.jpg">
-
 </div>
 <div class="container-fluid lightgrey-back">
 	<div class="container">
@@ -104,7 +102,7 @@
 						<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
 						<div class="row">
 							<div class="col-md-6">
-								<a class="shiny-link" href="javascript:;">Know More</a>
+								<a class="shiny-link" href="javascript:;">Read More</a>
 							</div>
 							<div class="col-md-6">
 								<div class="home-new-social">
@@ -128,7 +126,7 @@
 						<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
 						<div class="row">
 							<div class="col-md-6">
-								<a class="shiny-link" href="javascript:;">Know More</a>
+								<a class="shiny-link" href="javascript:;">Read More</a>
 							</div>
 							<div class="col-md-6">
 								<div class="home-new-social">
@@ -152,7 +150,7 @@
 						<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
 						<div class="row">
 							<div class="col-md-6">
-								<a class="shiny-link" href="javascript:;">Know More</a>
+								<a class="shiny-link" href="javascript:;">Read More</a>
 							</div>
 							<div class="col-md-6">
 								<div class="home-new-social">
@@ -176,7 +174,7 @@
 						<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
 						<div class="row">
 							<div class="col-md-6">
-								<a class="shiny-link" href="javascript:;">Know More</a>
+								<a class="shiny-link" href="javascript:;">Read More</a>
 							</div>
 							<div class="col-md-6">
 								<div class="home-new-social">

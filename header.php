@@ -92,28 +92,35 @@
 	<div class="container">
 		<ul class="header-menu">
 			<li>
+				<a href="javascript">
 				<img src="img/demo-icon.png">
-				<a href="javascript">Individual</a>
+				Individual</a>
+				<?php include('sub_menu.php'); ?>
 			</li>
 			<li>
+				<a href="javascript">
 				<img src="img/demo-icon.png">
-				<a href="javascript">Corporate</a>
+				Corporate</a>
 			</li>
 			<li>
+				<a href="javascript">
 				<img src="img/demo-icon.png">
-				<a href="javascript">SME</a>
+				SME</a>
 			</li>
 			<li>
+				<a href="javascript">
 				<img src="img/demo-icon.png">
-				<a href="javascript">E-Banking</a>
+				E-Banking</a>
 			</li>
 			<li>
+				<a href="javascript">
 				<img src="img/demo-icon.png">
-				<a href="javascript">About Us</a>
+				About Us</a>
 			</li>
 			<li>
+				<a href="javascript">
 				<img src="img/demo-icon.png">
-				<a href="javascript">More</a>
+				More</a>
 			</li>
 		</ul>
 	</div>
@@ -164,3 +171,4 @@
 	</div>
 <!-- End -->
 <main>
+	<div class="overlay"></div>
