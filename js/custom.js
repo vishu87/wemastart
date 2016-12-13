@@ -1,7 +1,17 @@
+var mobile_show = 0;
 $(document).ready(function(){
+    var main_height = $("main").height();
+    $(".overlay").css('height',main_height+'px');
     $(".header-menu > li").mouseenter(function(e){
         $(".overlay").show();
     });
+
+    $("#menu-mobile").click(function(e){
+        $(this).find('a').toggleClass('open');
+        $(".mobile-main").slideToggle();
+        $(".overlay").toggle();
+    });
+
     $(".header-menu > li").mouseleave(function(e){
         $(".overlay").hide();
     });

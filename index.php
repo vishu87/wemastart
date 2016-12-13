@@ -1,8 +1,8 @@
 <?php include('header.php'); ?>
 
 <div class="home-banner">
-	<img src="img/home_banner_new.jpg">
-	<img src="img/home_banner_new.jpg">
+	<div class="banner-item"></div>
+	<div class="banner-item"></div>
 </div>
 <!-- Side menu -->
 
@@ -138,15 +138,15 @@
 		<div class="row">
 			<div class="col-md-3 padd-0">
 				<div class="home-new-sec">
-					<img src="img/home_new_img1.jpg">
+					<div class="img-div" style="background-image:url(img/home_new_img1.jpg)"></div>
 					<div class="home-new-text">
 						<h3>Ten successful Nigerian Women Entrepreneurs below 30</h3>
 						<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
 						<div class="row">
-							<div class="col-md-6">
+							<div class="col-xs-6">
 								<a class="shiny-link" href="javascript:;">Read More</a>
 							</div>
-							<div class="col-md-6">
+							<div class="col-xs-6">
 								<div class="home-new-social">
 									<a href="javascript:;">
 										<img src="img/facebook-icon.png">
@@ -162,15 +162,15 @@
 			</div>
 			<div class="col-md-3 padd-0">
 				<div class="home-new-sec ">
-					<img src="img/home_new_img2.jpg">
+					<div class="img-div" style="background-image:url(img/home_new_img2.jpg)"></div>
 					<div class="home-new-text">
 						<h3>Purple Connect now lets you book meeting rooms</h3>
 						<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
 						<div class="row">
-							<div class="col-md-6">
+							<div class="col-xs-6">
 								<a class="shiny-link" href="javascript:;">Read More</a>
 							</div>
-							<div class="col-md-6">
+							<div class="col-xs-6">
 								<div class="home-new-social">
 									<a href="javascript:;">
 										<img src="img/facebook-icon.png">
@@ -186,15 +186,15 @@
 			</div>
 			<div class="col-md-3 padd-0">
 				<div class="home-new-sec">
-					<img src="img/home_new_img3.jpg">
+					<div class="img-div" style="background-image:url(img/home_new_img3.jpg)"></div>
 					<div class="home-new-text">
 						<h3>Five proven techniques to start your music business</h3>
 						<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
 						<div class="row">
-							<div class="col-md-6">
+							<div class="col-xs-6">
 								<a class="shiny-link" href="javascript:;">Read More</a>
 							</div>
-							<div class="col-md-6">
+							<div class="col-xs-6">
 								<div class="home-new-social">
 									<a href="javascript:;">
 										<img src="img/facebook-icon.png">
@@ -210,15 +210,15 @@
 			</div>
 			<div class="col-md-3 padd-0">
 				<div class="home-new-sec">
-					<img src="img/home_new_img4.jpg">
+					<div class="img-div" style="background-image:url(img/home_new_img4.jpg)"></div>
 					<div class="home-new-text">
 						<h3>Save Smart and take your family on dream vacation</h3>
 						<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
 						<div class="row">
-							<div class="col-md-6">
+							<div class="col-xs-6">
 								<a class="shiny-link" href="javascript:;">Read More</a>
 							</div>
-							<div class="col-md-6">
+							<div class="col-xs-6">
 								<div class="home-new-social">
 									<a href="javascript:;">
 										<img src="img/facebook-icon.png">

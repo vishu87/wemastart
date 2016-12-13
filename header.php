@@ -75,7 +75,7 @@
 			</div>
 		</div>
 	</div>
-	<div class="container">
+	<div class="container lower-header">
 		<ul class="header-menu">
 			<li>
 				<a href="javascript:;">
@@ -115,8 +115,68 @@
 			</li>
 		</ul>
 	</div>
-
+	<div class="mobile-header">
+		<div>
+			<div>
+				<div id="menu-mobile" class="logo">
+					<a href="#" class="menu-icon"></a>
+					<a href="#"><img src="img/logo_mobile.png" class="logo" /></a>
+				</div>
+			</div>
+			<div>
+				<div class="right-icons" ><span><img src="img/search2.png"></span> | &nbsp; Login</div>
+			</div>
+		</div>
+	</div>
 </header>
+<div class="mobile-main">
+	<div class="open-account">
+		<a href="#">Open Account</a>
+	</div>
+	<div class="mobile-menu">
+		<ul>
+			<li>
+				<a href="#">
+					Individual
+				</a>
+				<ul class="sub">
+					<li><a href="#">Accounts</a></li>
+					<li><a href="#">Cards</a></li>
+					<li><a href="#">Electronic Banking</a></li>
+					<li><a href="#">Collection Services</a></li>
+					<li><a href="#">Loans</a></li>
+					<li><a href="#">Investments</a></li>
+					<li><a href="#">Insurance</a></li>
+				</ul>
+			</li>
+			<li>
+				<a href="#">
+					Corporate
+				</a>
+			</li>
+			<li>
+				<a href="#">
+					SME
+				</a>
+			</li>
+			<li>
+				<a href="#">
+					E-Banking
+				</a>
+			</li>
+			<li>
+				<a href="#">
+					About Us
+				</a>
+			</li>
+			<li>
+				<a href="#">
+					More
+				</a>
+			</li>
+		</ul>
+	</div>
+</div>
 
 <!-- Fixed menu -->
 	<div class="container-fluid fixed-header">
