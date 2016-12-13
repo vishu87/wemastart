@@ -60,7 +60,6 @@ $(document).ready(function(){
     });
 
     $(".home-features").owlCarousel ({
-        singleItem: true,
         items : 3,
         loop : true,
         navigation:true,

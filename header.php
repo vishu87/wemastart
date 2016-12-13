@@ -67,26 +67,6 @@
 					</div>
 				</div>
 				<div class="col-md-4">
-					<!-- <div class="top-menu header-side-menu">
-						<ul style="text-align: right;">
-							<li>
-								<img src="img/demo-icon.png">
-								<a href="javascript:;">Get Support</a>
-							</li>
-							<li>
-								<img src="img/demo-icon.png">
-								<a href="javascript:;">Call Us</a>
-							</li>
-							<li>
-								<img src="img/demo-icon.png">
-								<a href="javascript:;">Locate Us</a>
-							</li>
-							<li>
-								<img src="img/demo-icon.png">
-								<a href="javascript:;">Check Rates</a>
-							</li>
-						</ul>
-					</div> -->
 					<div class="header-btns">
 						<a href="javascript:;">Login</a>
 						<a href="javascript:;">Open an Account</a>
@@ -99,39 +79,39 @@
 		<ul class="header-menu">
 			<li>
 				<a href="javascript:;">
-				<img src="img/demo-icon.png">
+				<img src="img/person.png">
 				Individual</a>
 				<?php include('sub_menu.php'); ?>
 			</li>
 			<li>
 				<a href="javascript:;">
-				<img src="img/demo-icon.png">
+				<img src="img/industry2.png">
 				Corporate</a>
-				<?php include('sub_menu.php'); ?>
+				<?php //include('sub_menu.php'); ?>
 			</li>
 			<li>
 				<a href="javascript:;">
-				<img src="img/demo-icon.png">
+				<img src="img/sme.png">
 				SME</a>
-				<?php include('sub_menu.php'); ?>
+				<?php //include('sub_menu.php'); ?>
 			</li>
 			<li>
 				<a href="javascript:;">
-				<img src="img/demo-icon.png">
+				<img src="img/comp.png" style="width:25px; height:auto">
 				E-Banking</a>
-				<?php include('sub_menu.php'); ?>
+				<?php //include('sub_menu.php'); ?>
 			</li>
 			<li>
 				<a href="javascript:;">
-				<img src="img/demo-icon.png">
+				<img src="img/bank.png">
 				About Us</a>
-				<?php include('sub_menu.php'); ?>
+				<?php //include('sub_menu.php'); ?>
 			</li>
 			<li>
 				<a href="javascript:;">
-				<img src="img/demo-icon.png">
+				<img src="img/more.png">
 				More</a>
-				<?php include('sub_menu.php'); ?>
+				<?php //include('sub_menu.php'); ?>
 			</li>
 		</ul>
 	</div>

@@ -48,7 +48,7 @@
 <!-- End -->
 <div class="container-fluid lightgrey-back">
 	<div class="container">
-		<div class="row home-features">
+		<div class="home-features">
 			<!-- <div class="col-md-4"> -->
 				<div class="homefeatures-sec">
 					<h2>PURPLE CONNECT ON WHATSAPP</h2>

@@ -92,7 +92,7 @@ header {
 		}*/
 		.header-search {
 			float: left;
-			padding-top: 3px;
+			padding-top: 2px;
 			position: relative;
 			width: 410px;
 			input {
@@ -126,7 +126,7 @@ header {
 			}
 			 > div {
         	position: absolute;
-			    top: 3px;
+			    top: 2px;
 			    right: 0;
 			    width:30px;
 			    color: #FFF;
@@ -142,9 +142,9 @@ header {
 			input {
 				width: 0;
 				padding: 0 10px;
-		    border: 1px solid $purple;
-		    height: 35px;
-		    color: $grey;
+		    border: 1px solid #777;
+		    height: 34px;
+		    
 
 		    &:focus {
 					background: none;
@@ -153,13 +153,13 @@ header {
 				}
 			}
 			img {
-		    background: #9C1A87;
-		    padding: 5px 7px;
-		    width: auto;
-		    height: 35px;
-		    position: absolute;
-		    right: 0;
-		    top: 2px;
+			    background: #777;
+			    padding: 5px 7px;
+			    width: auto;
+			    height: 34px;
+			    position: absolute;
+			    right: 0;
+			    top: 2px;
 			}
 		}
 		.header-btns {
@@ -203,11 +203,13 @@ header {
 				font-weight: 600;
 				color: $grey;
 				font-size: 18px;
-
+				display: block;
 				img {
-					width: 25px;
-					height: auto;
+					height: 20px;
+					width: auto;
 					filter: grayscale(100%);
+					margin-top: -2px;
+					opacity: 0.8;
 				}
 			}
 			&:hover {
@@ -322,11 +324,12 @@ header {
 .side-menu {
 	color: $white;
 	width: 250px;
-  position: fixed;
-  z-index: 999999;
-  top: 150px;
-  right: 0;
-  transition: 0.3s ease;
+  	position: fixed;
+  	z-index: 999999;
+  	top: 150px;
+  	right: 0;
+  	transition: 0.3s ease;
+  	display: none;
 	ul {
 		padding-left: 0;
 		position: relative;
@@ -608,17 +611,18 @@ a.shiny-link {
 				display: inline-block;
 				img {
 					width: 20px;
-			    height: auto;
-			    filter: grayscale(0);
-			    border-radius: 100%;
-			    transition: 0.3s ease;
-		    	border: 2px solid $light_purple;
-		    	padding: 3px;
-
-			    &:hover {
-			    	border: 2px solid $white;
-			    	padding: 0;
-			    }
+				    height: auto;
+				    filter: grayscale(0);
+				    border-radius: 100%;
+				    transition: 0.3s ease;
+			    	border: 2px solid $light_purple;
+			    	padding: 2px;
+			    	opacity: 0.7;
+				    &:hover {
+				    	// border: 2px solid $white;
+				    	// padding: 0;
+				    	opacity: 1;
+				    }
 				}
 			}
 		}
