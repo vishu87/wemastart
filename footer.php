@@ -104,12 +104,12 @@
 					<ul class="footer-social">
 						<li>
 							<a href="javascript:;">
-								<img src="img/facebook-icon.png">  
+								<img src="img/facebook-white-icon.png">  
 							</a>
 						</li>
 						<li>
 							<a href="javascript:;">
-								<img src="img/twitter-icon.png">  
+								<img src="img/twitter-white-icon.png">  
 							</a>
 						</li>
 						<li>

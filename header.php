@@ -59,6 +59,12 @@
 						<input name="search" type="text" placeholder="What are you looking for?">
 						<div data-icon="ei-search"></div>
 					</div>
+					<div class="header-subscribe">
+						<input type="text" name="subscribe" placeholder="Email Address">
+						<a href="javascript:;">
+							<img src="img/subscribe.png">
+						</a>
+					</div>
 				</div>
 				<div class="col-md-4">
 					<!-- <div class="top-menu header-side-menu">
@@ -92,35 +98,40 @@
 	<div class="container">
 		<ul class="header-menu">
 			<li>
-				<a href="javascript">
+				<a href="javascript:;">
 				<img src="img/demo-icon.png">
 				Individual</a>
 				<?php include('sub_menu.php'); ?>
 			</li>
 			<li>
-				<a href="javascript">
+				<a href="javascript:;">
 				<img src="img/demo-icon.png">
 				Corporate</a>
+				<?php include('sub_menu.php'); ?>
 			</li>
 			<li>
-				<a href="javascript">
+				<a href="javascript:;">
 				<img src="img/demo-icon.png">
 				SME</a>
+				<?php include('sub_menu.php'); ?>
 			</li>
 			<li>
-				<a href="javascript">
+				<a href="javascript:;">
 				<img src="img/demo-icon.png">
 				E-Banking</a>
+				<?php include('sub_menu.php'); ?>
 			</li>
 			<li>
-				<a href="javascript">
+				<a href="javascript:;">
 				<img src="img/demo-icon.png">
 				About Us</a>
+				<?php include('sub_menu.php'); ?>
 			</li>
 			<li>
-				<a href="javascript">
+				<a href="javascript:;">
 				<img src="img/demo-icon.png">
 				More</a>
+				<?php include('sub_menu.php'); ?>
 			</li>
 		</ul>
 	</div>

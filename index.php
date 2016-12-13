@@ -4,11 +4,53 @@
 	<img src="img/home_banner_new.jpg">
 	<img src="img/home_banner_new.jpg">
 </div>
+<!-- Side menu -->
+
+<div class="side-menu">
+	<ul>
+		<li>
+			<a href="javascript:;">
+				<img src="img/youtube-icon.png">
+				Personal Loan
+			</a>
+		</li>
+		<li>
+			<a href="javascript:;">
+				<img src="img/youtube-icon.png">
+				Car Loan
+			</a>
+		</li>
+		<li>
+			<a href="javascript:;">
+				<img src="img/youtube-icon.png">
+				Home Loan
+			</a>
+		</li>
+		<li>
+			<a href="javascript:;">
+				<img src="img/youtube-icon.png">
+				Savings Account
+			</a>
+		</li>
+		<li>
+			<a href="javascript:;">
+				<img src="img/youtube-icon.png">
+				Credit Card
+			</a>
+		</li>
+	</ul>
+	<div class="side-call">
+		<img src="img/instagram-icon.png">
+		Get a Call Back
+	</div>
+</div>	
+
+<!-- End -->
 <div class="container-fluid lightgrey-back">
 	<div class="container">
 		<div class="row home-features">
 			<!-- <div class="col-md-4"> -->
-				<div class="homefeatures-sec" style="border-left: 1px solid #d7d7d9;">
+				<div class="homefeatures-sec">
 					<h2>PURPLE CONNECT ON WHATSAPP</h2>
 					<p>Here is another way you can reach us in two simple steps...</p>
 					<a class="shiny-link" href="javascript:;">Know More</a>
@@ -107,10 +149,10 @@
 							<div class="col-md-6">
 								<div class="home-new-social">
 									<a href="javascript:;">
-										<img src="img/demo-icon.png">
+										<img src="img/facebook-icon.png">
 									</a>
 									<a href="javascript:;">
-										<img src="img/demo-icon.png">
+										<img src="img/twitter-icon.png">
 									</a>
 								</div>
 							</div>
@@ -131,10 +173,10 @@
 							<div class="col-md-6">
 								<div class="home-new-social">
 									<a href="javascript:;">
-										<img src="img/demo-icon.png">
+										<img src="img/facebook-icon.png">
 									</a>
 									<a href="javascript:;">
-										<img src="img/demo-icon.png">
+										<img src="img/twitter-icon.png">
 									</a>
 								</div>
 							</div>
@@ -155,10 +197,10 @@
 							<div class="col-md-6">
 								<div class="home-new-social">
 									<a href="javascript:;">
-										<img src="img/demo-icon.png">
+										<img src="img/facebook-icon.png">
 									</a>
 									<a href="javascript:;">
-										<img src="img/demo-icon.png">
+										<img src="img/twitter-icon.png">
 									</a>
 								</div>
 							</div>
@@ -179,10 +221,10 @@
 							<div class="col-md-6">
 								<div class="home-new-social">
 									<a href="javascript:;">
-										<img src="img/demo-icon.png">
+										<img src="img/facebook-icon.png">
 									</a>
 									<a href="javascript:;">
-										<img src="img/demo-icon.png">
+										<img src="img/twitter-icon.png">
 									</a>
 								</div>
 							</div>
