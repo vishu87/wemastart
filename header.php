@@ -137,7 +137,7 @@
 		<ul>
 			<li>
 				<a href="#">
-					Individual
+					<img src="img/person_white.png"> Individual
 				</a>
 				<ul class="sub">
 					<li><a href="#">Accounts</a></li>
@@ -192,7 +192,8 @@
 				<div class="col-md-7">
 					<ul class="fixed-menu">
 						<li>
-							<a href="javascript">Individual</a>
+							<a href="javascript">	Individual
+							</a>
 						</li>
 						<li>
 							<a href="javascript">Corporate</a>
