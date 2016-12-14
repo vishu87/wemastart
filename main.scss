@@ -32,7 +32,10 @@ $white: #fff;
 $border_grey: #8d8d8d;
 $roboto : 'Roboto', sans-serif;
 $muli: 'Muli', sans-serif;
-
+html, body {
+	margin: 0;
+	padding: 0;
+}
 body {
 	font-family: $roboto;
 	color: $grey;
@@ -846,6 +849,7 @@ footer {
 		position: fixed;
 		width: 100%;
 		z-index: 10000;
+		height:57px;
 	}
 	main {
 		padding-top: 57px;
