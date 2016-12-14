@@ -156,21 +156,25 @@
 			</li>
 			<li>
 				<a href="#">
+					<img src="img/sme_white.png"> 
 					SME
 				</a>
 			</li>
 			<li>
 				<a href="#">
+					<img src="img/comp_white.png"> 
 					E-Banking
 				</a>
 			</li>
 			<li>
 				<a href="#">
+					<img src="img/bank_white.png"> 
 					About Us
 				</a>
 			</li>
 			<li>
 				<a href="#">
+					<img src="img/more_white.png"> 
 					More
 				</a>
 			</li>
