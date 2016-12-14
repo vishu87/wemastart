@@ -151,6 +151,7 @@
 			</li>
 			<li>
 				<a href="#">
+					<img src="img/corporate-icon-white.png">
 					Corporate
 				</a>
 			</li>
