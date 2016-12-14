@@ -894,6 +894,7 @@ footer {
 			a {
 				display: inline-block;
 				vertical-align: middle;
+				cursor: pointer;
 			}
 			a.menu-icon {
 				width: 24px;
@@ -1101,7 +1102,9 @@ footer {
 				list-style: none;
 				> li {
 					border-bottom: 1px solid #DDD;
+					cursor: pointer;
 					> a {
+						cursor: pointer;
 						display: block;
 						padding: 10px 10px;
 						margin-right: 10px;

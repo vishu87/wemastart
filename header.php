@@ -33,7 +33,7 @@
 			<div class="row">
 				<div class="col-md-3">
 					<div class="logo">
-						<a href="http://localhost/Avyay_Technologies/Wema_Bank/">
+						<a href="#">
 							<img src="img/logo.png">
 						</a>
 					</div>
@@ -188,7 +188,7 @@
 			<div class="row">
 				<div class="col-md-2">
 					<div class="fixed-logo">
-						<a href="http://localhost/Avyay_Technologies/Wema_Bank/">
+						<a href="#">
 							<img src="img/logo-white.png">
 						</a>
 					</div>
