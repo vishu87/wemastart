@@ -12,6 +12,15 @@ $(document).ready(function(){
         $(".overlay").toggle();
     });
 
+    $(".mobile-menu > ul > li").click(function(e){
+        $(this).find("ul").slideToggle();
+        $(this).find("a").toggleClass('open');
+    });
+
+    $(".mobile-menu > ul > li li").click(function(e){
+        e.stopPropagation();
+    });
+
     $(".header-menu > li").mouseleave(function(e){
         $(".overlay").hide();
     });

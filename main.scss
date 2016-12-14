@@ -586,6 +586,11 @@ a.shiny-link {
 	padding: 50px 0;
 	background: #eee;
 }
+.blog-container{
+	.load-more{
+		display: none;
+	}
+}
 .home-new-sec {
 	box-shadow:  0 0 1px 0 rgba(0,0,0, 0.25);
 	background: $white;
@@ -839,6 +844,9 @@ footer {
 .mobile-main {
 	display: none;
 }
+.sliding-icons {
+	display: none;
+}
 
 /*--- Mobile Responsive ----*/
 
@@ -890,6 +898,7 @@ footer {
 			a {
 				display: inline-block;
 				vertical-align: middle;
+				cursor: pointer;
 			}
 			a.menu-icon {
 				width: 24px;
@@ -1025,6 +1034,31 @@ footer {
 			border-right: 0;
 		}
 	}
+	.blog-container{
+		> div {
+			&:nth-child(3){
+				display: none;
+			}
+			&:nth-child(4){
+				display: none;
+			}
+		}
+		.load-more{
+			text-align: center;
+			display: block;
+			margin: 20px 0 0 0;
+			a {
+				color: #FFF;
+				background: $purple;
+				font-size: 14px;
+				font-family: $muli;
+				padding: 5px 10px;
+				display: inline-block;
+				min-width: 180px;
+				text-align: center;
+			}
+		}
+	}
 	.home-new-sec {
 		.home-new-text {
 			h3 {
@@ -1046,7 +1080,7 @@ footer {
 	.mobile-main {
 		display: none;
 		position: fixed;
-		top: 60px;
+		top: 75px;
 		z-index: 1000;
 		background: #FFF;
 		width: 80%;
@@ -1072,7 +1106,9 @@ footer {
 				list-style: none;
 				> li {
 					border-bottom: 1px solid #DDD;
+					cursor: pointer;
 					> a {
+						cursor: pointer;
 						display: block;
 						padding: 10px 10px;
 						margin-right: 10px;
@@ -1082,6 +1118,13 @@ footer {
 						background-repeat: no-repeat;
 						background-position: center right;
 						background-size: 12px;
+						&.open{
+							background-image: url(img/minus.png);
+						}
+						img {
+							width: 15px;
+							height: auto;
+						}
 					}
 
 					> ul {
@@ -1104,16 +1147,63 @@ footer {
 							}
 						}
 					}
-					&:hover {
-						> ul {
-							display: block;
-						}
-					}
 				}
 			}
 		}
 	}
 
-
+	.overlay {
+		background: rgba(0,0,0,0.8);
+	}
+	#sliding-icons{
+		&::-webkit-scrollbar{
+			width: 0;
+		}
+	}
+	.sliding-icons{
+		
+		display: block;
+		background: $purple;
+		padding: 0 0 5px 0;
+		overflow-x: auto;
+		> div {
+			display: table;
+			vertical-align: middle;
+			text-align: center;
+			> div {
+				padding: 0 8px;
+				margin-top: -5px;
+				display: table-cell;
+				color: #FFF;
+				min-width: 100px;
+				span {
+					display: block;
+    				height: 43px;
+    				width: 50px;
+    				margin: 0 auto;
+    				margin-top: -8px;
+					&.support{
+						background: url(img/Sprite_Homepage_miscellaneous.png) no-repeat scroll -300px -845px;
+					}
+					&.call{
+						background: url(img/sprite_home_misc.png) no-repeat scroll -9px -552px;
+					}
+					&.rates{
+						background: url(img/sprite_home_misc.png) no-repeat scroll -3px -742px;
+					}
+					&.apply{
+						background: url(img/sprite_home_misc.png) no-repeat scroll -6px -635px;
+					}
+					&.offers{
+						background: url(img/sprite_home_misc.png) no-repeat scroll 0px -820px;
+					}
+					&.locate{
+						background: url(img/sprite_home_misc.png) no-repeat scroll -2px -781px;
+					}
+					
+				}
+			}
+		}
+	}
 
 }

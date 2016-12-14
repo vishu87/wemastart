@@ -4,6 +4,34 @@
 	<div class="banner-item"></div>
 	<div class="banner-item"></div>
 </div>
+<div class="sliding-icons" id="sliding-icons">
+	<div>
+		<div>
+			<span class="support"></span>
+			Get Support
+		</div>
+		<div>
+			<span class="call"></span>
+			Get Call
+		</div>
+		<div>
+			<span class="rates"></span>
+			Rates
+		</div>
+		<div>
+			<span class="apply"></span>
+			Apply
+		</div>
+		<div>
+			<span class="offers"></span>
+			Offers
+		</div>
+		<div>
+			<span class="locate"></span>
+			Locate
+		</div>
+	</div>
+</div>
 <!-- Side menu -->
 
 <div class="side-menu">
@@ -135,7 +163,7 @@
 		<div class="sec-title grey">
 			<h2>From the Blog</h2>
 		</div>
-		<div class="row">
+		<div class="row blog-container">
 			<div class="col-md-3 padd-0">
 				<div class="home-new-sec">
 					<div class="img-div" style="background-image:url(img/home_new_img1.jpg)"></div>
@@ -231,7 +259,11 @@
 						</div>
 					</div>
 				</div>
-			</div>	
+			</div>
+
+			<div class="load-more">
+				<a href="#">Load More</a>
+			</div>
 		</div>
 	</div>
 </div>

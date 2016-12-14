@@ -33,7 +33,7 @@
 			<div class="row">
 				<div class="col-md-3">
 					<div class="logo">
-						<a href="http://localhost/Avyay_Technologies/Wema_Bank/">
+						<a href="#">
 							<img src="img/logo.png">
 						</a>
 					</div>
@@ -137,7 +137,7 @@
 		<ul>
 			<li>
 				<a href="#">
-					Individual
+					<img src="img/person_white.png"> Individual
 				</a>
 				<ul class="sub">
 					<li><a href="#">Accounts</a></li>
@@ -156,21 +156,25 @@
 			</li>
 			<li>
 				<a href="#">
+					<img src="img/sme_white.png"> 
 					SME
 				</a>
 			</li>
 			<li>
 				<a href="#">
+					<img src="img/comp_white.png"> 
 					E-Banking
 				</a>
 			</li>
 			<li>
 				<a href="#">
+					<img src="img/bank_white.png"> 
 					About Us
 				</a>
 			</li>
 			<li>
 				<a href="#">
+					<img src="img/more_white.png"> 
 					More
 				</a>
 			</li>
@@ -184,7 +188,7 @@
 			<div class="row">
 				<div class="col-md-2">
 					<div class="fixed-logo">
-						<a href="http://localhost/Avyay_Technologies/Wema_Bank/">
+						<a href="#">
 							<img src="img/logo-white.png">
 						</a>
 					</div>
@@ -192,7 +196,8 @@
 				<div class="col-md-7">
 					<ul class="fixed-menu">
 						<li>
-							<a href="javascript">Individual</a>
+							<a href="javascript">	Individual
+							</a>
 						</li>
 						<li>
 							<a href="javascript">Corporate</a>
